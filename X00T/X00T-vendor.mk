@@ -1726,6 +1726,7 @@ PRODUCT_PACKAGES += \
     imssettings \
     CABLService \
     Perfdump \
+	PowerOffAlarm \
     QFingerprintService \
     Qmmi \
     SVIService \
